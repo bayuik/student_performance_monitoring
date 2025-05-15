@@ -6,3 +6,6 @@ scipy==1.15.2
 plotly==6.0.1
 scikit-learn==1.6.1
 joblib==1.4.2
+sqlalchemy==2.0.40
+imbalanced-learn==0.13.0
+psycopg2==2.9.10
