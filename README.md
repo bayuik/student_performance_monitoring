@@ -149,6 +149,8 @@ Untuk menjalankan aplikasi secara lokal:
    Jalankan perintah berikut di terminal:
    ```bash
    streamlit run app.py
+   ```
+   bisa juga diakses melalui link berikut: [Streamlit Student Performance](https://studentperformancemonitoring.streamlit.app/)
 
 ## Conclusion
 
