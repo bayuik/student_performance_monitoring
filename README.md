@@ -91,6 +91,11 @@ pip install -r requirements.txt
 
 ## Business Dashboard
 
+```bash
+email: bayuindrakusuma05@gmail.com
+password: root123
+```
+
 ### Tujuan
 Membangun sistem prediksi berbasis machine learning dan dashboard visualisasi untuk membantu Jaya Jaya Institut:
 - Mengenali mahasiswa yang berisiko dropout
